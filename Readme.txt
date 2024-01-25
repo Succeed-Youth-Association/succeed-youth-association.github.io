@@ -1,1 +1,2 @@
-# This site is live at https://freshteacher.tech/Success-Integrated-Primary-School/
+# This site is live at https://fresh-teacher.github.io/succeedyouthassociation
+
